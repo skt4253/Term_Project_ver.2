@@ -1,2 +1,2 @@
-# Web-Programming-Term-Project-ver.2
+# Web-Programming 
 Term Project ver.2
